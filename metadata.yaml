@@ -22,6 +22,8 @@ creator:
     - http://en.wikipedia.org/wiki/Voltaire
     - http://fr.wikipedia.org/wiki/Voltaire
 description: 'This is a translation of eBook #4649.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30123#Micromegas
 gutenberg_issued: '2009-09-28'
 gutenberg_type: Text
 identifiers:
