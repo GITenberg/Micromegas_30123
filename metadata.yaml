@@ -1,0 +1,41 @@
+_repo: Micromegas_30123
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Phalen, Peter
+    gutenberg_agent_id: '34388'
+    url: http://www.gutenberg.org/2009/agents/34388
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Voltaire
+    aliases:
+    - Arouet, François Marie
+    - Arouet, Francois Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Voltaire
+    - http://fr.wikipedia.org/wiki/Voltaire
+description: 'This is a translation of eBook #4649.'
+gutenberg_issued: '2009-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Interplanetary voyages -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Voyages, Imaginary -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Science fiction'
+- !lcsh 'Life on other planets -- Fiction'
+title: Micromegas
+url: http://www.gutenberg.org/ebooks/30123
